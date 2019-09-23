@@ -1,7 +1,7 @@
 # Unit 11 | Assignment - Web Visualization Dashboard (Latitude)
 
 ## Completed Website
-https://github.com/cbourdeau/cbourdeau.github.io
+https://cbourdeau.github.io
 
 ## Background
 
